@@ -15,7 +15,7 @@ assessmentButton.onclick = function(){
     console.log(userspilit);
     if (userExperience >= 10 && userspilit === 1){
     distination = 'Iran';
-    imgpath = "image/iran.JPG";
+    imgpath = "image/iran.jpg";
 }
 else if (userExperience >= 10 && userspilit === 0 ){
     distination = 'Morocco'
